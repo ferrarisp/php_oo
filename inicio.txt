@@ -1,1 +1,24 @@
-incio do projeto
+incio do projeto 04/07/2015
+
+SEJAM TODOS BEM VINDOS
+
+Este repositorio compartilhado com todos, para estudos de PHP OO.
+
+Esse estudo esta ligado a pagina do grupo DÚVIDAS PHP no facebook (https://www.facebook.com/groups/633951710018419/)  aonde ele será sempre divulgado 
+
+O projeto visa o aprendizado do iniciante, aquele que ainda esta começando com Orientação Objetos no PHP.
+
+Caso queria contribuir com alguma coisa fique, a vontade para subir seus arquivos colocar comentarios.
+
+Se deseja comentar algo, suba um arquivo .txt com uma referencia, data ou nome+data, etc e coloque no reposito.
+
+Sua ajuda e contribuição é de grande importância para propagar o conhecimento para todos.
+
+ABS
+
+
+
+
+
+
+
